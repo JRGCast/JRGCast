@@ -11,6 +11,7 @@
   <li>👯 Estou procurando oportunidades de emprego como desenvolvedor de software</li>
   <li>⚡ Alguns dos meus pontos fortes são:
     <ul>
+      <li>Detalhismo</li>
       <li>Escuta ativa</li>
       <li>Trabalho em grupo</li>
       <li>Saber dar e receber feedbacks</li>
