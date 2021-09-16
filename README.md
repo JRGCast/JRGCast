@@ -5,7 +5,7 @@
 
 #### Sobre mim
 <ul>
-  <li> Tenho 29 anos, moro em Brasília - DF / Brasil</li>
+  <li> :smiley: Tenho 29 anos, moro em Brasília - DF / Brasil</li>
   <li> Atualmente estou finalizando Ciência da Computação na Trybe</li>
   <li> Estou procurando oportunidades de emprego como desenvolvedor de software</li>
   <li> Alguns dos meus pontos fortes são:
