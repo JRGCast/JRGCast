@@ -6,9 +6,9 @@
 #### Sobre mim
 <ul>
   <li> :smiley: Tenho 29 anos, moro em Brasília - DF / Brasil</li>
-  <li> Atualmente estou finalizando Ciência da Computação na Trybe</li>
-  <li> Estou procurando oportunidades de emprego como desenvolvedor de software</li>
-  <li> Alguns dos meus pontos fortes são:
+  <li> :books: Atualmente estou finalizando Ciência da Computação na Trybe</li>
+  <li> :chart_with_upwards_trend: Estou procurando oportunidades de emprego como desenvolvedor de software</li>
+  <li> :muscle: Alguns dos meus pontos fortes são:
     <ul>
       <li>Detalhismo</li>
       <li>Empatia</li>
