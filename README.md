@@ -24,7 +24,7 @@
 
 #### Linguagens e ferramentas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=jrgcast)](https://github.com/jrgcast/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRGcast&layout=compact)](https://github.com/JRGCast/github-readme-stats)
 
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/vscode.png"><img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/vscode.png" style="max-width:100%;"></a></p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://github.com/fabiosenracorrea/fabiosenracorrea/blob/master/icons/html5.png"><img align="left" alt="HTML5" width="26px" src="https://github.com/fabiosenracorrea/fabiosenracorrea/raw/master/icons/html5.png" style="max-width:100%;"></a></p>
