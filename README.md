@@ -54,6 +54,8 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667"><img src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667" alt="mocha" width="40" height="40" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" style="max-width: 100%;"></a> 
 </p>
 
+  <a target="_blank" rel="noopener noreferrer" href="https://brandslogos.com/wp-content/uploads/thumbs/heroku-logo-vector.svg"><img src="https://brandslogos.com/wp-content/uploads/thumbs/heroku-logo-vector.svg" alt="heroku" width="40" height="40" style="max-width: 100%;"></a> 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRGcast&layout=compact)](https://github.com/JRGCast/github-readme-stats)
 
 
